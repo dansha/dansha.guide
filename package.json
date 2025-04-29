@@ -7,5 +7,9 @@
   "devDependencies": {
     "cssnano": "^5.0.6",
     "tailwindcss": "^3.0.10"
+  },
+  "scripts": {
+    "start": "bundle exec jekyll serve"
   }
+
 }
